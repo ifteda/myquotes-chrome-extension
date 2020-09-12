@@ -1,0 +1,15 @@
+{
+    "name": "myQuotes",
+    "description": "Quotations to help you take a pause before maneuvering through the rest of your day. Add your own quotes for a personal touch!",
+    "version": "1.0",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "popup.html"
+    },
+    "web_accessible_resources": [
+        "quoatations.json"
+    ],
+    "permissions": [
+        "storage"
+    ]
+}

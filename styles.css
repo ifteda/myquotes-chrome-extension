@@ -1,0 +1,34 @@
+html, body {
+    width: 500px;
+    background-color: #ebf8ff;
+    font-family: "Verdana";
+}
+
+h1 {
+    color: #000052;
+}
+
+h2, p {
+    color: #61616b;
+}
+
+p {
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+
+button {
+    font-family: "Verdana";
+    background-color: #b3e5ff;
+    border-radius: 12px;
+    border: 2px solid #b3e5ff;
+    box-shadow: 0 3px 4px 0 rgba(0,0,0,0.24), 0 9px 25px 0 rgba(0,0,0,0.19);;
+    margin: 10px 5px 0px 0px;
+}
+
+button:hover {
+    background-color: #b3b3ff;
+    border: 2px solid #b3b3ff;
+    transition-duration: 0.4s;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
