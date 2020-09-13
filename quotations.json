@@ -25,18 +25,6 @@
         "base": true
     },
     {
-        "quotation": "Death is not extinguishing the light; it is only putting out the lamp because the dawn has come.",
-        "author": "Rabindranath Tagore",
-        "hidden": false,
-        "base": true
-    },
-    {
-        "quotation": "Every child comes with the message that God is not yet discouraged of man.",
-        "author": "Rabindranath Tagore",
-        "hidden": false,
-        "base": true
-    },
-    {
         "quotation": "The butterfly counts not months but moments, and has time enough.",
         "author": "Rabindranath Tagore",
         "hidden": false,
@@ -49,14 +37,45 @@
         "base": true
     },
     {
-        "quotation": "Facts are many, but the truth is one.",
+        "quotation": "A mind all logic is like a knife all blade. It makes the hand bleed that uses it.",
         "author": "Rabindranath Tagore",
         "hidden": false,
         "base": true
     },
     {
-        "quotation": "A mind all logic is like a knife all blade. It makes the hand bleed that uses it.",
-        "author": "Rabindranath Tagore",
+        "quotation": "You may not control all the events that happen to you, but you can decide not to be reduced by them.",
+        "author": "Maya Angelou",
+        "hidden": false,
+        "base": true
+    },
+
+    {
+        "quotation": "Caring for myself is not self-indulgence, it is self-preservation, and that is an act of political warfare.",
+        "author": "Audre Lorde",
+        "hidden": false,
+        "base": true
+    },
+    {
+        "quotation": "Dreams and reality are opposites. Action synthesizes them.",
+        "author": "Assata Shakur",
+        "hidden": false,
+        "base": true
+    },
+    {
+        "quotation": "You are your best thing.",
+        "author": "Toni Morrison",
+        "hidden": false,
+        "base": true
+    },
+    {
+        "quotation": "There are opportunities even in the most difficult moments.",
+        "author": "Wangari Maathai",
+        "hidden": false,
+        "base": true
+    },
+    {
+        "quotation": "No person has the right to rain on your dreams.",
+        "author": "Marian Wright Edelman",
         "hidden": false,
         "base": true
     }
